@@ -1,7 +1,12 @@
 [
     {
-        "id": "f6a7a84c-7600-4f32-9be8-aa03ff8570f7",
-        "title": "Go to Costco",
-        "text": "Buy eggs and milk"
+        "id": "fb0ae2e3-3228-4617-8071-0c9399a55615",
+        "title": "File tax return",
+        "text": "Check all necessary forms have been received before filing."
+    },
+    {
+        "id": "0824bd7e-9357-401c-8487-c33e30f5a49c",
+        "title": "Reminders for Daily Stand Up",
+        "text": "Review current tasks. Assign priority tasks."
     }
 ]
