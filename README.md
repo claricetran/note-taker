@@ -24,7 +24,7 @@ To reach this application, click on the following link: [https://notetake.heroku
 4. To delete a note, click on the red trash can for the corresponding note that needs to be deleted.
 5. The api for the saved notes can be accessed from: [https://notetake.herokuapp.com/api/notes](https://notetake.herokuapp.com/api/notes)
 
-![usage image](https://github.com/claricetran/note-taker/blob/main/assets/images/noteTakerUsage.gif?raw=true)
+![usage image](https://github.com/claricetran/note-taker/blob/main/public/assets/images/noteTakerUsage.gif?raw=true)
 
 \*Notes cannot be edited at this time.
 
